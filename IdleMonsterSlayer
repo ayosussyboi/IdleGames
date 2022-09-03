@@ -1,13 +1,13 @@
 Let's make a game!
-	name:Bunny Clicker
-	by:Orteil
-	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>Make bunnies and shoot for the stars!
-	created:25/7/2017
-	updated:24/10/2017
+	name:Idle Monster Slayer
+	by:Bearlol_yt
+	desc:Click the anvil for more tokens. Use the tokens for upgrades!
+	created:9/3/2022
+	updated:9/3/2022
 	version:1
 
 Settings
-	background:stuff/meadow.jpg
+	background:stuff/https://github.com/ayosussyboi/IdleGames/blob/main/7367c78284380b1304e680e5430fdefd.jpeg?raw=true
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
