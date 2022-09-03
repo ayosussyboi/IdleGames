@@ -7,10 +7,10 @@ Let's make a game!
 	version:1
 
 Settings
-	background:stuff/https://github.com/ayosussyboi/IdleGames/blob/main/7367c78284380b1304e680e5430fdefd.jpeg?raw=true
+	background:https://github.com/ayosussyboi/IdleGames/blob/main/7367c78284380b1304e680e5430fdefd.jpeg?raw=true
 	building cost increase:115%
 	building cost refund:50%
-	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
+	spritesheet:icons, 48 by 48, https://github.com/ayosussyboi/IdleGames/blob/main/18-185288_anvil-clipart-anvil-clipart-png.png?raw=true
 	stylesheet:stuff/bigBlue.css
 
 Layout
