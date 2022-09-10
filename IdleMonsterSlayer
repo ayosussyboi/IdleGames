@@ -17,7 +17,7 @@ Layout
 	use default
 		
 Buttons
-	*anvilButton
+	*bunnyButton
 		name:Anvil
 		desc:Click this anvil
 		on click:yield 1 bunny
